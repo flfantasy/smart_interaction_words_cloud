@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="words_cloud_job" />
+        <module name="traffic-subject2" />
         <module name="flink_backfront" />
       </profile>
     </annotationProcessing>
@@ -18,6 +19,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="flink_backfront" options="-parameters" />
+      <module name="traffic-subject2" options="-parameters" />
     </option>
   </component>
 </project>

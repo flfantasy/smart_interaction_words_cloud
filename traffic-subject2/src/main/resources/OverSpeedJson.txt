@@ -1,0 +1,1 @@
+{"linkId":"152DN09H2M0152DK09H3600","linkName":"中山东一路:北京东路-南苏州路路段","maxSpeed":40.0,"overSpeed":40.099285,"timeInterval":"37218.2-37234.0","vehicleId":"038144dd25654c88677dc4b2051adbe1_0_0_1"}
