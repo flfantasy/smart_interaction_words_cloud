@@ -11,7 +11,7 @@ public class TrafficSubject2Application {
 
     public static void main(String[] args) throws IOException, InterruptedException {
         SpringApplication.run(TrafficSubject2Application.class, args);
-        WordsCountWebSocket.boardCast();
+        WordsCountWebSocket.boardCast(args[0]);
     }
 
 }

@@ -5,5 +5,6 @@
     <file url="file://$PROJECT_DIR$/flink_backfront/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/traffic-subject2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/traffic-subject2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/traffic-subject2/src/main/resources/websocket-test.html" charset="UTF-16" />
   </component>
 </project>
